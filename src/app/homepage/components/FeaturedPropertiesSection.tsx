@@ -8,8 +8,8 @@ const properties = [
 {
   id: 1,
   name: 'Penthouse Étoile',
-  location: 'Paris 8ème, France',
-  price: '8 200 000 €',
+  location: 'ALGER, ALG',
+  price: '00000 DZD',
   surface: '420 m²',
   rooms: '5 chambres',
   tag: 'Exclusivité',
@@ -20,8 +20,8 @@ const properties = [
 {
   id: 2,
   name: 'Villa Cristal',
-  location: 'Dubai Hills, UAE',
-  price: '18 900 000 AED',
+  location: 'ALGER, ALG',
+  price: '000 000 DZD',
   surface: '1 200 m²',
   rooms: '7 chambres',
   tag: 'Nouveau',
@@ -32,8 +32,8 @@ const properties = [
 {
   id: 3,
   name: 'Villa Azur',
-  location: 'Monaco, Principauté',
-  price: '22 500 000 €',
+  location: 'ALGER, ',
+  price: '000 000 €',
   surface: '680 m²',
   rooms: '5 chambres',
   tag: 'Prestige',
@@ -44,8 +44,8 @@ const properties = [
 {
   id: 4,
   name: 'Résidence Lumière',
-  location: 'Cannes, Côte d\'Azur',
-  price: '4 750 000 €',
+  location: 'ALGER, ALG',
+  price: '000 000 €',
   surface: '310 m²',
   rooms: '4 chambres',
   tag: 'Rare',
