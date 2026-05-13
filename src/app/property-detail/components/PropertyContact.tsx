@@ -116,7 +116,7 @@ export default function PropertyContact() {
                       value={formData.phone}
                       onChange={(e) => setFormData({ ...formData, phone: e.target.value })}
                       className="luxury-input w-full px-4 py-3 rounded-xl text-sm"
-                      placeholder="+971 50 000 00 00"
+                      placeholder="+213 558 24 26 20"
                     />
                   </div>
                   <div>
