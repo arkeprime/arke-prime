@@ -113,14 +113,14 @@ export default function PropertyInfo() {
                 <div className="flex items-center gap-4 mb-6">
                   <div className="w-14 h-14 rounded-full overflow-hidden border-2 border-gold/30 shrink-0">
                     <img
-                      src="https://img.rocket.new/generatedImages/rocket_gen_img_151ef47f0-1763295021929.png"
+                      src="https://ibb.co/tTQQ48Dy"
                       alt="Portrait de Julien Marchand, conseiller immobilier ARKÉ PRIME, costume sombre, expression professionnelle"
                       className="w-full h-full object-cover" />
                     
                   </div>
                   <div>
-                    <p className="font-semibold text-warm-white text-sm">Julien Marchand</p>
-                    <p className="text-xs text-gold/70 mt-0.5">Senior Advisor · Dubai</p>
+                    <p className="font-semibold text-warm-white text-sm">Mohamed Abadlia</p>
+                    <p className="text-xs text-gold/70 mt-0.5">Alger · Algeria</p>
                     <div className="flex items-center gap-1 mt-1">
                       {[...Array(5)]?.map((_, i) =>
                       <svg key={i} width="10" height="10" viewBox="0 0 24 24" fill="#C9A84C" className="text-gold">
@@ -134,16 +134,16 @@ export default function PropertyInfo() {
 
                 <div className="flex flex-col gap-3 mb-6">
                   <a
-                    href="tel:+97150000000"
+                    href="tel:+213 558 24 26 20"
                     className="flex items-center gap-3 text-sm text-warm-white/60 hover:text-gold transition-colors">
                     
                     <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="1.5">
                       <path d="M22 16.92v3a2 2 0 0 1-2.18 2 19.79 19.79 0 0 1-8.63-3.07A19.5 19.5 0 0 1 4.69 13.6 19.79 19.79 0 0 1 1.61 5a2 2 0 0 1 1.99-2h3a2 2 0 0 1 2 1.72c.127.96.361 1.903.7 2.81a2 2 0 0 1-.45 2.11L7.91 10.4a16 16 0 0 0 6 6l.93-.93a2 2 0 0 1 2.11-.45c.907.339 1.85.573 2.81.7A2 2 0 0 1 22 16.92z" />
                     </svg>
-                    +971 50 000 00 00
+                    +213 558 24 26 20
                   </a>
                   <a
-                    href="https://wa.me/97150000000"
+                    href="https://wa.me/+213 558 24 26 20"
                     className="flex items-center gap-3 text-sm text-warm-white/60 hover:text-gold transition-colors">
                     
                     <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="1.5">
