@@ -113,7 +113,7 @@ export default function PropertyInfo() {
                 <div className="flex items-center gap-4 mb-6">
                   <div className="w-14 h-14 rounded-full overflow-hidden border-2 border-gold/30 shrink-0">
                     <img
-                      src="https://ibb.co/tTQQ48Dy.png"
+                      src="/assets/images/photo_5776025298913660485_x-1778679568852.jpg""
                       alt="Portrait de Julien Marchand, conseiller immobilier ARKÉ PRIME, costume sombre, expression professionnelle"
                       className="w-full h-full object-cover" />
                     
