@@ -47,8 +47,8 @@ export default function ContactSection() {
                     </svg>
                   ),
                   label: 'Téléphone',
-                  value: '+33 1 42 00 00 00',
-                  href: 'tel:+33142000000',
+                  value: '+213 558 24 26 20',
+                  href: 'tel:+213 558 24 26 20',
                 },
                 {
                   icon: (
@@ -58,8 +58,8 @@ export default function ContactSection() {
                     </svg>
                   ),
                   label: 'Email',
-                  value: 'contact@arkeprime.com',
-                  href: 'mailto:contact@arkeprime.com',
+                  value: 'primearke@gmail.com',
+                  href: 'mailto:primearke@gmail.com',
                 },
                 {
                   icon: (
@@ -68,7 +68,7 @@ export default function ContactSection() {
                     </svg>
                   ),
                   label: 'WhatsApp',
-                  value: '+33 6 00 00 00 00',
+                  value: '+213 558 24 26 20',
                   href: 'https://wa.me/33600000000',
                 },
               ].map((item) => (
@@ -160,7 +160,7 @@ export default function ContactSection() {
                       value={formData.phone}
                       onChange={(e) => setFormData({ ...formData, phone: e.target.value })}
                       className="luxury-input w-full px-4 py-3 rounded-xl text-sm"
-                      placeholder="+33 6 00 00 00 00"
+                      placeholder="+213 558 24 26 20"
                     />
                   </div>
                   <div>
